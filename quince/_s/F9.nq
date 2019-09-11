@@ -1,0 +1,1 @@
+﻿<http://datadock.io/digidatajen/csvw-test/id/definition/taxon_version_key> <http://www.w3.org/2000/01/rdf-schema#label> "TAXON_VERSION_KEY"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/definitions>.
