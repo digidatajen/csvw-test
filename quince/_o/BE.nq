@@ -1,3 +1,1 @@
-﻿<http://datadock.io/digidatajen/csvw-test/id/resource/fwNbnData/B4W_259456> <http://datadock.io/digidatajen/csvw-test/id/definition/record_key> "B4W_259456"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/id/dataset/fwNbnData>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/fwNbnData/B4W_4203732> <http://datadock.io/digidatajen/csvw-test/id/definition/north> "375970"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/fwNbnData>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/fwNbnData/B4W_6863840> <http://datadock.io/digidatajen/csvw-test/id/definition/sample_key> "424577"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/fwNbnData>.
+﻿

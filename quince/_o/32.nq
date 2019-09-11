@@ -1,6 +1,1 @@
-﻿<http://datadock.io/digidatajen/csvw-test/id/resource/fwNbnData/B4W_4209496> <http://datadock.io/digidatajen/csvw-test/id/definition/site_key> "66976"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/fwNbnData>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/fwNbnData/B4W_6863361> <http://datadock.io/digidatajen/csvw-test/id/definition/record_key> "B4W_6863361"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/id/dataset/fwNbnData>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/fwNbnData/B4W_6865324> <http://datadock.io/digidatajen/csvw-test/id/definition/site_key> "65126"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/fwNbnData>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/fwNbnData/B4W_6865333> <http://datadock.io/digidatajen/csvw-test/id/definition/site_key> "65126"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/fwNbnData>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/fwNbnData/B4W_6869392> <http://datadock.io/digidatajen/csvw-test/id/definition/east_100> "625200"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/fwNbnData>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/fwNbnData/B4W_88236> <http://datadock.io/digidatajen/csvw-test/id/definition/record_key> "B4W_88236"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/id/dataset/fwNbnData>.
+﻿

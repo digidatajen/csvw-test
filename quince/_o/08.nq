@@ -1,5 +1,1 @@
-﻿<http://datadock.io/digidatajen/csvw-test/id/resource/fwNbnData/B4W_169561> <http://datadock.io/digidatajen/csvw-test/id/definition/taxon_list_item_key> "NBNSYS0100047352"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/id/dataset/fwNbnData>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/fwNbnData/B4W_6863107> <http://datadock.io/digidatajen/csvw-test/id/definition/taxon_list_item_key> "NBNSYS0100047352"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/id/dataset/fwNbnData>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/fwNbnData/B4W_6868000> <http://datadock.io/digidatajen/csvw-test/id/definition/site_key> "55277"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/fwNbnData>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/fwNbnData/B4W_6868003> <http://datadock.io/digidatajen/csvw-test/id/definition/site_key> "55277"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/fwNbnData>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/fwNbnData/B4W_6868005> <http://datadock.io/digidatajen/csvw-test/id/definition/site_key> "55277"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/fwNbnData>.
+﻿
