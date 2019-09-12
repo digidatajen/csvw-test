@@ -1,2 +1,1 @@
-﻿<http://datadock.io/digidatajen/csvw-test/id/dataset/phytOpenDataTaxa> <http://rdfs.org/ns/void#dataDump> <http://datadock.io/digidatajen/csvw-test/csv/phytOpenDataTaxa/PHYT_OPEN_DATA_TAXA.csv> <http://datadock.io/digidatajen/csvw-test/id/dataset/phytOpenDataTaxa/metadata>.
-<http://datadock.io/digidatajen/csvw-test/id/dataset/phytOpenDataTaxa> <http://rdfs.org/ns/void#dataDump> <https://github.com/digidatajen/csvw-test/releases/download/phytOpenDataTaxa_20190912_082210/phytOpenDataTaxa_20190912_082210.nt.gz> <http://datadock.io/digidatajen/csvw-test/id/dataset/phytOpenDataTaxa/metadata>.
+﻿

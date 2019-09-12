@@ -1,2 +1,1 @@
-﻿<http://datadock.io/digidatajen/csvw-test/> <http://rdfs.org/ns/void#subset> <http://datadock.io/digidatajen/csvw-test/id/dataset/phytOpenDataTaxa> <http://datadock.io/digidatajen/csvw-test/metadata>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/phytOpenDataTaxa/row_91> <http://datadock.io/digidatajen/csvw-test/id/definition/cells_litre> "19068.000"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/csvw-test/id/dataset/phytOpenDataTaxa>.
+﻿

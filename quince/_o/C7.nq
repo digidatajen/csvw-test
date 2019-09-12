@@ -1,3 +1,1 @@
-﻿<http://datadock.io/digidatajen/csvw-test/id/dataset/phytOpenDataTaxa> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/digidatajen/csvw-test/id/resource/phytOpenDataTaxa/row_3> <http://datadock.io/digidatajen/csvw-test/id/dataset/phytOpenDataTaxa/metadata>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/phytOpenDataTaxa/row_222> <http://datadock.io/digidatajen/csvw-test/id/definition/sample_date> "20080814000000"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/phytOpenDataTaxa>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/phytOpenDataTaxa/row_283> <http://datadock.io/digidatajen/csvw-test/id/definition/cells_litre> "644600.000"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/csvw-test/id/dataset/phytOpenDataTaxa>.
+﻿

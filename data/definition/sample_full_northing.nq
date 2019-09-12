@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/digidatajen/csvw-test/id/definition/sample_full_northing> <http://www.w3.org/2000/01/rdf-schema#label> "SAMPLE_FULL_NORTHING"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/definitions>.
-<http://datadock.io/digidatajen/csvw-test/id/definition/source> <http://www.w3.org/2000/01/rdf-schema#label> "SOURCE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/definitions>.

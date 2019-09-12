@@ -1,3 +1,1 @@
-﻿<http://datadock.io/digidatajen/csvw-test/id/resource/phytOpenDataTaxa/row_321> <http://datadock.io/digidatajen/csvw-test/id/definition/cells_litre> "37600.000"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/csvw-test/id/dataset/phytOpenDataTaxa>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/phytOpenDataTaxa/row_435> <http://datadock.io/digidatajen/csvw-test/id/definition/taxon_qualifier_desc> "0-10um"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/id/dataset/phytOpenDataTaxa>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/phytOpenDataTaxa/row_455> <http://datadock.io/digidatajen/csvw-test/id/definition/taxon_qualifier_desc> "0-10um"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/id/dataset/phytOpenDataTaxa>.
+﻿

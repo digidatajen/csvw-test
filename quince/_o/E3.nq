@@ -1,2 +1,1 @@
-﻿<http://datadock.io/digidatajen/csvw-test/id/resource/phytOpenDataTaxa/row_222> <http://datadock.io/digidatajen/csvw-test/id/definition/analysis_id> "699617"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/phytOpenDataTaxa>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/phytOpenDataTaxa/row_77> <http://datadock.io/digidatajen/csvw-test/id/definition/taxon_list_item_key> "NHMSYS0000558838"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/id/dataset/phytOpenDataTaxa>.
+﻿
