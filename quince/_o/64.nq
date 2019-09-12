@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/digidatajen/csvw-test/id/resource/phytOpenDataTaxa/row_222> <http://datadock.io/digidatajen/csvw-test/id/definition/sample_northing> "26341"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/phytOpenDataTaxa>.
+<http://datadock.io/digidatajen/csvw-test/id/resource/phytOpenDataTaxa/row_328> <http://datadock.io/digidatajen/csvw-test/id/definition/replicate_code> "GRO001190809P"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/id/dataset/phytOpenDataTaxa>.

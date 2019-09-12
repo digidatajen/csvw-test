@@ -1,2 +1,3 @@
 ﻿<http://datadock.io/digidatajen/csvw-test/id/definition/date_type> <http://www.w3.org/2000/01/rdf-schema#label> "DATE_TYPE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/definitions>.
 <http://datadock.io/digidatajen/csvw-test/id/definition/start_date> <http://www.w3.org/2000/01/rdf-schema#label> "START_DATE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/definitions>.
+<http://datadock.io/digidatajen/csvw-test/id/resource/phytOpenDataTaxa/row_253> <http://datadock.io/digidatajen/csvw-test/id/definition/sample_ngr_10_fig> "TF5872526326"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/id/dataset/phytOpenDataTaxa>.
