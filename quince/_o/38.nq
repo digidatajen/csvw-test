@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/digidatajen/csvw-test/id/definition/wfd_waterbody_id> <http://www.w3.org/2000/01/rdf-schema#label> "WFD_WATERBODY_ID"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/definitions>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/individuallyMeasuredFreshwaterFish/577561> <http://datadock.io/digidatajen/csvw-test/id/definition/lw_measured_id> "577561"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/individuallyMeasuredFreshwaterFish>.
