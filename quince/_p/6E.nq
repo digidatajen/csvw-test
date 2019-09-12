@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/digidatajen/csvw-test/id/dataset/individuallyMeasuredFreshwaterFish> <http://rdfs.org/ns/void#dataDump> <http://datadock.io/digidatajen/csvw-test/csv/individuallyMeasuredFreshwaterFish/Individually_measured_freshwater_fish_records_20190429.csv> <http://datadock.io/digidatajen/csvw-test/id/dataset/individuallyMeasuredFreshwaterFish/metadata>.
+<http://datadock.io/digidatajen/csvw-test/id/dataset/individuallyMeasuredFreshwaterFish> <http://rdfs.org/ns/void#dataDump> <https://github.com/digidatajen/csvw-test/releases/download/individuallyMeasuredFreshwaterFish_20190912_133740/individuallyMeasuredFreshwaterFish_20190912_133740.nt.gz> <http://datadock.io/digidatajen/csvw-test/id/dataset/individuallyMeasuredFreshwaterFish/metadata>.

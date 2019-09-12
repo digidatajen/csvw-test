@@ -1,1 +1,2 @@
-﻿<http://datadock.io/digidatajen/csvw-test/id/definition/site_version> <http://www.w3.org/2000/01/rdf-schema#label> "SITE_VERSION"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/definitions>.
+﻿<http://datadock.io/digidatajen/csvw-test/id/definition/lw_measured_id> <http://www.w3.org/2000/01/rdf-schema#label> "LW_MEASURED_ID"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/definitions>.
+<http://datadock.io/digidatajen/csvw-test/id/definition/site_version> <http://www.w3.org/2000/01/rdf-schema#label> "SITE_VERSION"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/definitions>.

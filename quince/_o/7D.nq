@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/digidatajen/csvw-test/id/resource/individuallyMeasuredFreshwaterFish/7144131> <http://datadock.io/digidatajen/csvw-test/id/definition/survey_id> "134319"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/individuallyMeasuredFreshwaterFish>.
+<http://datadock.io/digidatajen/csvw-test/id/resource/individuallyMeasuredFreshwaterFish/8447530> <http://datadock.io/digidatajen/csvw-test/id/definition/lw_measured_id> "8447530"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/individuallyMeasuredFreshwaterFish>.

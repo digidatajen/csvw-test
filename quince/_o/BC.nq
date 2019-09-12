@@ -1,1 +1,3 @@
-﻿
+﻿<http://datadock.io/digidatajen/csvw-test/id/definition/nall_age> <http://www.w3.org/2000/01/rdf-schema#label> "NALL_AGE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/definitions>.
+<http://datadock.io/digidatajen/csvw-test/id/resource/individuallyMeasuredFreshwaterFish/4157594> <http://datadock.io/digidatajen/csvw-test/id/definition/species_run_id> "330311"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/individuallyMeasuredFreshwaterFish>.
+<http://datadock.io/digidatajen/csvw-test/id/resource/individuallyMeasuredFreshwaterFish/4157595> <http://datadock.io/digidatajen/csvw-test/id/definition/species_run_id> "330311"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/individuallyMeasuredFreshwaterFish>.

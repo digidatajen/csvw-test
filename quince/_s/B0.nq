@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/digidatajen/csvw-test/id/definition/fish_length> <http://www.w3.org/2000/01/rdf-schema#label> "FISH_LENGTH"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/definitions>.
+<http://datadock.io/digidatajen/csvw-test/id/definition/run_number> <http://www.w3.org/2000/01/rdf-schema#label> "RUN_NUMBER"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/definitions>.

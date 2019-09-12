@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/digidatajen/csvw-test/id/dataset/individuallyMeasuredFreshwaterFish> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/digidatajen/csvw-test/id/resource/individuallyMeasuredFreshwaterFish/7909713> <http://datadock.io/digidatajen/csvw-test/id/dataset/individuallyMeasuredFreshwaterFish/metadata>.
+<http://datadock.io/digidatajen/csvw-test/id/resource/individuallyMeasuredFreshwaterFish/6692412> <http://datadock.io/digidatajen/csvw-test/id/definition/lw_measured_id> "6692412"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/individuallyMeasuredFreshwaterFish>.
