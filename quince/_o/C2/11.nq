@@ -1,3 +1,1 @@
-﻿<http://datadock.io/digidatajen/csvw-test/id/resource/freshwaterSalmoniidAgeBandGt0/428512> <http://datadock.io/digidatajen/csvw-test/id/definition/fished_width> "6.49"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/csvw-test/id/dataset/freshwaterSalmoniidAgeBandGt0>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/freshwaterSalmoniidAgeBandGt0/428512> <http://datadock.io/digidatajen/csvw-test/id/definition/survey_width> "6.49"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/digidatajen/csvw-test/id/dataset/freshwaterSalmoniidAgeBandGt0>.
-<http://datadock.io/digidatajen/csvw-test/id/resource/freshwaterSalmoniidAgeBandGt0/53353> <http://datadock.io/digidatajen/csvw-test/id/definition/site_id> "3441"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/freshwaterSalmoniidAgeBandGt0>.
+﻿
