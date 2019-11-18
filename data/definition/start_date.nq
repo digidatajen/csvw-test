@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/digidatajen/csvw-test/id/definition/start_date> <http://www.w3.org/2000/01/rdf-schema#label> "START_DATE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/definitions>.
+<http://datadock.io/digidatajen/csvw-test/id/definition/start_date> <http://www.w3.org/2000/01/rdf-schema#label> "start-date"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/definitions>.

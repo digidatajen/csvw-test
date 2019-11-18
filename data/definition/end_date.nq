@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/digidatajen/csvw-test/id/definition/end_date> <http://www.w3.org/2000/01/rdf-schema#label> "END_DATE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/definitions>.
+<http://datadock.io/digidatajen/csvw-test/id/definition/end_date> <http://www.w3.org/2000/01/rdf-schema#label> "end-date"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/definitions>.
