@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/digidatajen/csvw-test/id/resource/localAuthoritiesInEnglandRegister/ERY> <http://datadock.io/digidatajen/csvw-test/id/definition/key> "ERY"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthoritiesInEnglandRegister>.
+<http://datadock.io/digidatajen/csvw-test/id/resource/localAuthoritiesInEnglandRegister/ERY> <http://datadock.io/digidatajen/csvw-test/id/definition/local_authority_eng> "ERY"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthoritiesInEnglandRegister>.

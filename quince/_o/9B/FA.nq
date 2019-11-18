@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/digidatajen/csvw-test/id/resource/localAuthoritiesInEnglandRegister/NUN> <http://datadock.io/digidatajen/csvw-test/id/definition/entry_number> "336"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthoritiesInEnglandRegister>.
+<http://datadock.io/digidatajen/csvw-test/id/resource/localAuthoritiesInEnglandRegister/NUN> <http://datadock.io/digidatajen/csvw-test/id/definition/index_entry_number> "336"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthoritiesInEnglandRegister>.
