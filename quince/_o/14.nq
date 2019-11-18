@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/digidatajen/csvw-test/id/definition/east_100> <http://www.w3.org/2000/01/rdf-schema#label> "EAST_100"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/definitions>.
+<http://datadock.io/digidatajen/csvw-test/id/resource/localAuthoritiesInEnglandRegister/row_103> <http://datadock.io/digidatajen/csvw-test/id/definition/name> "Ashfield"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthoritiesInEnglandRegister>.

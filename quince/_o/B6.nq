@@ -1,1 +1,3 @@
-﻿
+﻿<http://datadock.io/digidatajen/csvw-test/id/resource/localAuthoritiesInEnglandRegister/row_20> <http://datadock.io/digidatajen/csvw-test/id/definition/name> "Suffolk Coastal"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthoritiesInEnglandRegister>.
+<http://datadock.io/digidatajen/csvw-test/id/resource/localAuthoritiesInEnglandRegister/row_356> <http://datadock.io/digidatajen/csvw-test/id/definition/key> "BUR"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthoritiesInEnglandRegister>.
+<http://datadock.io/digidatajen/csvw-test/id/resource/localAuthoritiesInEnglandRegister/row_356> <http://datadock.io/digidatajen/csvw-test/id/definition/local_authority_eng> "BUR"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthoritiesInEnglandRegister>.

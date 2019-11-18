@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/digidatajen/csvw-test/id/dataset/fwCountsOpenBaMeas> <http://purl.org/dc/terms/title> "FW_COUNTS_OPEN_BA_MEAS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/id/dataset/fwCountsOpenBaMeas/metadata>.
+<http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthoritiesInEnglandRegister> <http://purl.org/dc/terms/title> "Local authorities in England register"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthoritiesInEnglandRegister/metadata>.
