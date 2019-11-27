@@ -1,3 +1,4 @@
 ﻿<http://datadock.io/digidatajen/csvw-test/id/dataset/fwCountsOpenBaMeas> <http://rdfs.org/ns/void#triples> "1791"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/fwCountsOpenBaMeas/metadata>.
 <http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthoritiesInEnglandRegister> <http://rdfs.org/ns/void#triples> "3054"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthoritiesInEnglandRegister/metadata>.
 <http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthority> <http://rdfs.org/ns/void#triples> "3770"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthority/metadata>.
+<http://datadock.io/digidatajen/csvw-test/id/dataset/measures> <http://rdfs.org/ns/void#triples> "50"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/digidatajen/csvw-test/id/dataset/measures/metadata>.
