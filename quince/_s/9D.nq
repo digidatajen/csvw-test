@@ -2,7 +2,6 @@
 <http://datadock.io/digidatajen/csvw-test/> <http://rdfs.org/ns/void#subset> <http://datadock.io/digidatajen/csvw-test/id/dataset/fwCountsOpenBaMeas> <http://datadock.io/digidatajen/csvw-test/metadata>.
 <http://datadock.io/digidatajen/csvw-test/> <http://rdfs.org/ns/void#subset> <http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthoritiesInEnglandRegister> <http://datadock.io/digidatajen/csvw-test/metadata>.
 <http://datadock.io/digidatajen/csvw-test/> <http://rdfs.org/ns/void#subset> <http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthority> <http://datadock.io/digidatajen/csvw-test/metadata>.
-<http://datadock.io/digidatajen/csvw-test/> <http://rdfs.org/ns/void#subset> <http://datadock.io/digidatajen/csvw-test/id/dataset/nov7Samplemeasures> <http://datadock.io/digidatajen/csvw-test/metadata>.
 <http://datadock.io/digidatajen/csvw-test/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/digidatajen/csvw-test/metadata>.
 <http://datadock.io/digidatajen/csvw-test/id/definition/fish_weight> <http://www.w3.org/2000/01/rdf-schema#label> "FISH_WEIGHT"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/digidatajen/csvw-test/definitions>.
 <http://datadock.io/digidatajen/csvw-test/id/resource/localAuthoritiesInEnglandRegister/DOR> <http://datadock.io/digidatajen/csvw-test/id/definition/end_date> "2019-03-31"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthoritiesInEnglandRegister>.
