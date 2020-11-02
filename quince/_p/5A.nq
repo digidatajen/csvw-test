@@ -3,3 +3,4 @@
 <http://datadock.io/digidatajen/csvw-test/> <http://rdfs.org/ns/void#subset> <http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthoritiesInEnglandRegister> <http://datadock.io/digidatajen/csvw-test/metadata>.
 <http://datadock.io/digidatajen/csvw-test/> <http://rdfs.org/ns/void#subset> <http://datadock.io/digidatajen/csvw-test/id/dataset/localAuthority> <http://datadock.io/digidatajen/csvw-test/metadata>.
 <http://datadock.io/digidatajen/csvw-test/> <http://rdfs.org/ns/void#subset> <http://datadock.io/digidatajen/csvw-test/id/dataset/measures> <http://datadock.io/digidatajen/csvw-test/metadata>.
+<http://datadock.io/digidatajen/csvw-test/> <http://rdfs.org/ns/void#subset> <http://datadock.io/digidatajen/csvw-test/id/dataset/obsTotalAbundance> <http://datadock.io/digidatajen/csvw-test/metadata>.
